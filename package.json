@@ -1,0 +1,14 @@
+{
+  "name": "hello-you",
+  "version": "1.0.0",
+  "description": "story time",
+  "main": "storytime.js",
+  "scripts": {
+    "build": "node storytime.js"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Tobias Nordahl",
+  "license": "ISC"
+}
