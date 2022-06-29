@@ -12,9 +12,8 @@ let webpage = new Object();
 // Frontpage
 webpage.frontpage = {
   name: "Tobias Nordahl",
-  contactInfo: `<div class="subheading mb-5">8260 Viby J · Midtjylland, Danmark · (+45) 40 30 44 61 ·
-        <a href="mailto:post@tobiasnordahl.dk">post@tobiasnordahl.dk</a>
-    </div>`,
+  address: "8260 Viby J · Midtjylland, Danmark · (+45) 40 30 44 61",
+  email: "post@tobiasnordahl.dk",
   summary: `Analytiker - dog også kodekværner, datagnaver, front-end designer 🎉 👩‍💻, med passion for mange tekniske (HTML,CSS,JS,PHP,SQL,LINUX++🚀) og kommunikative aspekter (ADFÆRDSDESIGN,PROCESOPTIMERING & HÅNDTERING).`,
   links: [
     {
